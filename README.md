@@ -2,9 +2,7 @@
 
 <h3 align="center">A QA Engineer from India 🇮🇳</h3>
 
-<img align=’right’ alt=”software tester funny gif” width=”40” src="![image](https://github.com/Padmanav037/padmanav037/assets/96132689/82a4df49-5dd7-429c-ac72-fe3979811025)
-
-">
+<img align=’right’ alt=”software tester funny gif” width=”400” src="![image](https://github.com/Padmanav037/padmanav037/assets/96132689/82a4df49-5dd7-429c-ac72-fe3979811025)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=padmanav037&label=Profile%20views&color=0e75b6&style=flat" alt="padmanav037" /> </p>
 
 <p align="left"> <a href="https://twitter.com/padmanav037" target="blank"><img src="https://img.shields.io/twitter/follow/padmanav037?logo=twitter&style=for-the-badge" alt="padmanav037" /></a> </p>
@@ -20,15 +18,7 @@
 
 <p align="left">
 
-<a href="https://twitter.com/padmanav037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="padmanav037" height="30" width="40" /></a>
-
-<a href="https://linkedin.com/in/padmanav037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="padmanav037" height="30" width="40" /></a>
-
-<a href="https://instagram.com/padmanav037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="padmanav037" height="30" width="40" /></a>
-
-<a href="https://medium.com/@padmanav037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@padmanav037" height="30" width="40" /></a>
-
-<a href="https://www.youtube.com/c/the037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the037" height="30" width="40" /></a>
+<a href="https://twitter.com/padmanav037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="padmanav037" height="30" width="40" /></a><a href="https://linkedin.com/in/padmanav037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="padmanav037" height="30" width="40" /></a><a href="https://instagram.com/padmanav037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="padmanav037" height="30" width="40" /></a><a href="https://medium.com/@padmanav037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@padmanav037" height="30" width="40" /></a><a href="https://www.youtube.com/c/the037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the037" height="30" width="40" /></a>
 
 </p>
 

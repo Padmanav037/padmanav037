@@ -5,7 +5,7 @@
 <img align="right" src="https://github.com/Padmanav037/padmanav037/assets/96132689/82a4df49-5dd7-429c-ac72-fe3979811025" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=padmanav037&label=Profile%20views&color=0e75b6&style=flat" alt="padmanav037 twitter banner" /> </p>
 
-<p align="left"> <a href="https://twitter.com/padmanav037" target="_blank"><img src="https://img.shields.io/twitter/follow/padmanav037?logo=twitter&style=for-the-badge" alt="padmanav037" /></a> </p>
+<p align="left"> <a href="https://twitter.com/padmanav037" target="blank"><img src="https://img.shields.io/twitter/follow/padmanav037?logo=twitter&style=for-the-badge" alt="padmanav037" /></a> </p>
 
 - 🔭 I’m currently working on **Matrixfire**
 - 🌱 I’m currently learning **security testing/Burp suite**
